@@ -1,0 +1,1 @@
+C:\Andrey\C++\kurs_c++\c++_networking\c++_server\x64\Debug\c++_server.exe
